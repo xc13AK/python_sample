@@ -6,7 +6,8 @@
 	*v1.0*: calc weekday by counting delta days		
 	*v2.0*: give weekday by datetime packet		
 
-test git flow sample     
-add feature test2    
-release v1.0
-release v1.1
+test git flow sample        
+add feature test2         
+release v1.0      
+release v1.1      
+make hotfix with v1.1      
