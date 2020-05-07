@@ -7,3 +7,4 @@
 	*v2.0*: give weekday by datetime packet		
 
 test git flow sample
+add feature test2
