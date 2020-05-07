@@ -9,3 +9,4 @@
 test git flow sample     
 add feature test2    
 release v1.0
+release v1.1
